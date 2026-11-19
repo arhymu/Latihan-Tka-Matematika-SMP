@@ -1,0 +1,25 @@
+{
+  "name": "Latihan TKA Matematika SMP",
+  "short_name": "TKA MTK SMP",
+  "description": "Aplikasi Simulasi CBT TKA Matematika SMP (HOTS) - 40 Butir Soal Numerasi",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#0f766e",
+  "theme_color": "#115e59",
+  "icons": [
+    {
+      "src": "logo-sekolah.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "logo-sekolah.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
